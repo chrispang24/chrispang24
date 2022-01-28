@@ -14,5 +14,5 @@
 
 #### External Links
 
-- 👨‍💻 Details on some of my previous projects are available at: [https://www.christopherpang.ca](https://www.christopherpang.ca)
+- 👨‍💻 Previous project details available at: [https://www.christopherpang.ca](https://www.christopherpang.ca)
 - 📫 Reach out to me at: hello@christopherpang.ca
